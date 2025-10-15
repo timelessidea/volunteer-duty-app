@@ -1,2 +1,1 @@
-# volunteer-duty-app
-Seixal Volunteer App
+mkdir backend frontend
